@@ -1,30 +1,239 @@
-
 {
   "success": true,
   "students": [
     {
-      "id": "SY-001",
-      "faculty": "Engineering",
+      "id": "STU-001",
+      "name": "Ankee Qasha Oshana",
+      "faculty": "Law",
+      "year": 1,
+      "tuition": 500,
+      "raised": 0,
+      "photo": "https://images.squarespace-cdn.com/content/v1/67c957b2d576327f07252295/650bd452-cdd1-4240-83a6-1f4cb8e9707d/Student_001.jpg?format=2500w"
+    },
+    {
+      "id": "STU-002",
+      "name": "Anna Kako",
+      "faculty": "Business Management",
       "year": 2,
       "tuition": 500,
-      "raised": 100,
-      "photo": ""
+      "raised": 1000,
+      "photo": "https://images.squarespace-cdn.com/content/v1/67c957b2d576327f07252295/319afda6-f576-41e2-a4e2-d64689801662/Student_002.jpg?format=2500w"
     },
     {
-      "id": "SY-002",
-      "faculty": "Medicine",
+      "id": "STU-003",
+      "name": "Anthony Warda",
+      "faculty": "Law",
       "year": 3,
       "tuition": 500,
-      "raised": 250,
-      "photo": ""
+      "raised": 500,
+      "photo": "https://images.squarespace-cdn.com/content/v1/67c957b2d576327f07252295/251df5c9-6a69-4c92-8207-6902b64b5f55/Student_003.jpg?format=2500w"
     },
     {
-      "id": "SY-003",
-      "faculty": "Pharmacy",
+      "id": "STU-004",
+      "name": "Atra Warda",
+      "faculty": "Law",
+      "year": 3,
+      "tuition": 500,
+      "raised": 0,
+      "photo": "https://images.squarespace-cdn.com/content/v1/67c957b2d576327f07252295/c48ce1ab-1015-4026-a88e-4f2bc9257090/Student_004.jpg?format=2500w"
+    },
+    {
+      "id": "STU-005",
+      "name": "Babel Kandlo",
+      "faculty": "Economy",
+      "year": 4,
+      "tuition": 500,
+      "raised": 0,
+      "photo": "https://images.squarespace-cdn.com/content/v1/67c957b2d576327f07252295/8523db23-6ddb-46d2-b260-43e8156b4404/Student_005.jpg?format=2500w"
+    },
+    {
+      "id": "STU-006",
+      "name": "Christian Toma",
+      "faculty": "Civil Engineering",
       "year": 1,
       "tuition": 500,
       "raised": 500,
-      "photo": ""
+      "photo": "https://images.squarespace-cdn.com/content/v1/67c957b2d576327f07252295/ae384a6a-1d67-41ac-8393-d0ca25d9d384/Student_006.jpg?format=2500w"
+    },
+    {
+      "id": "STU-007",
+      "name": "Elbron Esho",
+      "faculty": "Information Technology",
+      "year": 2,
+      "tuition": 500,
+      "raised": 0,
+      "photo": "https://images.squarespace-cdn.com/content/v1/67c957b2d576327f07252295/2b365377-76d1-4331-bdd6-0bfd25c05103/Student_007.jpg?format=2500w"
+    },
+    {
+      "id": "STU-008",
+      "name": "Elie Issac",
+      "faculty": "Economy",
+      "year": 1,
+      "tuition": 500,
+      "raised": 500,
+      "photo": "https://images.squarespace-cdn.com/content/v1/67c957b2d576327f07252295/8d7581c1-9097-456b-b3fe-6ce5507b83c9/Student_008.jpg?format=2500w"
+    },
+    {
+      "id": "STU-009",
+      "name": "Ernest Hannosh",
+      "faculty": "Preparatory year",
+      "year": 1,
+      "tuition": 500,
+      "raised": 1000,
+      "photo": "https://images.squarespace-cdn.com/content/v1/67c957b2d576327f07252295/89790f6b-e621-4e97-8f87-7ba3d59f7742/Student_009.jpg?format=2500w"
+    },
+    {
+      "id": "STU-010",
+      "name": "George Kako",
+      "faculty": "Medical Studies",
+      "year": 2,
+      "tuition": 500,
+      "raised": 0,
+      "photo": "https://images.squarespace-cdn.com/content/v1/67c957b2d576327f07252295/4a35f713-4d81-4ec9-91c1-5af376308661/Student_010.jpg?format=2500w"
+    },
+    {
+      "id": "STU-011",
+      "name": "George Athniel",
+      "faculty": "Software Engineering",
+      "year": 3,
+      "tuition": 500,
+      "raised": 0,
+      "photo": "https://images.squarespace-cdn.com/content/v1/67c957b2d576327f07252295/759cfe5f-2d4e-4209-9088-bda72d214512/Student_011.jpg?format=2500w"
+    },
+    {
+      "id": "STU-012",
+      "name": "Hermez Warda",
+      "faculty": "Dentistry",
+      "year": 5,
+      "tuition": 500,
+      "raised": 0,
+      "photo": "https://images.squarespace-cdn.com/content/v1/67c957b2d576327f07252295/9d369727-8e25-437a-aee6-611b68a0ab88/Student_012.jpg?format=2500w"
+    },
+    {
+      "id": "STU-013",
+      "name": "Joelle Kato",
+      "faculty": "Economy",
+      "year": 2,
+      "tuition": 500,
+      "raised": 0,
+      "photo": "https://images.squarespace-cdn.com/content/v1/67c957b2d576327f07252295/d51d5414-e16c-4895-8709-e24e33f4433a/Student_013.jpg?format=2500w"
+    },
+    {
+      "id": "STU-014",
+      "name": "Juliana Darmo",
+      "faculty": "Law",
+      "year": 2,
+      "tuition": 500,
+      "raised": 500,
+      "photo": "https://images.squarespace-cdn.com/content/v1/67c957b2d576327f07252295/e61b8ed5-3698-4ea8-95b1-3d0aab0a7c75/Student_014.jpg?format=2500w"
+    },
+    {
+      "id": "STU-015",
+      "name": "Khanem Kifarkis",
+      "faculty": "Economy",
+      "year": 4,
+      "tuition": 500,
+      "raised": 0,
+      "photo": "https://images.squarespace-cdn.com/content/v1/67c957b2d576327f07252295/52f0a898-47f1-4eb7-a7af-aa65ed78f2c8/Student_015.jpg?format=2500w"
+    },
+    {
+      "id": "STU-016",
+      "name": "Marielle Warda",
+      "faculty": "Medical Studies",
+      "year": 3,
+      "tuition": 500,
+      "raised": 0,
+      "photo": "https://images.squarespace-cdn.com/content/v1/67c957b2d576327f07252295/1623db45-1aa0-4ba9-9cf8-c4442d54d437/Student_016.jpg?format=2500w"
+    },
+    {
+      "id": "STU-017",
+      "name": "Maryelena Athniel",
+      "faculty": "Preparatory year",
+      "year": 1,
+      "tuition": 500,
+      "raised": 500,
+      "photo": "https://images.squarespace-cdn.com/content/v1/67c957b2d576327f07252295/68a3ff3d-7d90-4e23-a330-4f03c061af3f/Student_017.jpg?format=2500w"
+    },
+    {
+      "id": "STU-018",
+      "name": "Maya Abraham",
+      "faculty": "Business Management",
+      "year": 4,
+      "tuition": 500,
+      "raised": 0,
+      "photo": "https://images.squarespace-cdn.com/content/v1/67c957b2d576327f07252295/a727d5aa-261a-44ea-bcf7-40ef57c84ae9/Student_018.jpg?format=2500w"
+    },
+    {
+      "id": "STU-019",
+      "name": "Nancy Warda",
+      "faculty": "Civil Engineering",
+      "year": 5,
+      "tuition": 500,
+      "raised": 0,
+      "photo": "https://images.squarespace-cdn.com/content/v1/67c957b2d576327f07252295/94f067a1-ae96-416b-9b48-5ec92310c7e2/Student_019.jpg?format=2500w"
+    },
+    {
+      "id": "STU-020",
+      "name": "Ninmar Matlob",
+      "faculty": "Software Engineering",
+      "year": 1,
+      "tuition": 500,
+      "raised": 0,
+      "photo": "https://images.squarespace-cdn.com/content/v1/67c957b2d576327f07252295/9befb477-7769-4a00-8e44-90be2e939cb4/Student_020.jpg?format=2500w"
+    },
+    {
+      "id": "STU-021",
+      "name": "Ninos Kena",
+      "faculty": "Law",
+      "year": 3,
+      "tuition": 500,
+      "raised": 0,
+      "photo": "https://images.squarespace-cdn.com/content/v1/67c957b2d576327f07252295/bf7add60-3bbc-421d-8d99-bf05f675a9d4/Student_021.jpg?format=2500w"
+    },
+    {
+      "id": "STU-022",
+      "name": "Sanhareeb Kandlo",
+      "faculty": "Physical Educator( P/E)",
+      "year": 1,
+      "tuition": 500,
+      "raised": 0,
+      "photo": "https://images.squarespace-cdn.com/content/v1/67c957b2d576327f07252295/e5ded21b-29c6-48ca-ac29-b78cd8a6bb00/Student_022.jpg?format=2500w"
+    },
+    {
+      "id": "STU-023",
+      "name": "Siemel Ekhteyar",
+      "faculty": "Law",
+      "year": 3,
+      "tuition": 500,
+      "raised": 0,
+      "photo": "https://images.squarespace-cdn.com/content/v1/67c957b2d576327f07252295/c7ab52eb-d31a-43d0-a331-6851260d370c/Student_023.jpg?format=2500w"
+    },
+    {
+      "id": "STU-024",
+      "name": "Talita Kako",
+      "faculty": "Esthetician",
+      "year": 4,
+      "tuition": 500,
+      "raised": 0,
+      "photo": "https://images.squarespace-cdn.com/content/v1/67c957b2d576327f07252295/26593715-541f-40ea-9e9e-57f5c9481bc0/Student_024.jpg?format=2500w"
+    },
+    {
+      "id": "STU-025",
+      "name": "Valentina Kato",
+      "faculty": "Economy",
+      "year": 3,
+      "tuition": 500,
+      "raised": 0,
+      "photo": "https://images.squarespace-cdn.com/content/v1/67c957b2d576327f07252295/c9b23513-df54-4833-afde-7368f0912bc6/Student_025.jpg?format=2500w"
+    },
+    {
+      "id": "STU-026",
+      "name": "Yostina Warda",
+      "faculty": "Economy",
+      "year": 3,
+      "tuition": 500,
+      "raised": 0,
+      "photo": "https://images.squarespace-cdn.com/content/v1/67c957b2d576327f07252295/67c471fe-ada8-4e24-8c32-7ee33c8ed2d9/Student_026.jpg?format=2500w"
     }
   ]
 }
