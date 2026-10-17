@@ -1,0 +1,30 @@
+
+{
+  "success": true,
+  "students": [
+    {
+      "id": "SY-001",
+      "faculty": "Engineering",
+      "year": 2,
+      "tuition": 500,
+      "raised": 100,
+      "photo": ""
+    },
+    {
+      "id": "SY-002",
+      "faculty": "Medicine",
+      "year": 3,
+      "tuition": 500,
+      "raised": 250,
+      "photo": ""
+    },
+    {
+      "id": "SY-003",
+      "faculty": "Pharmacy",
+      "year": 1,
+      "tuition": 500,
+      "raised": 500,
+      "photo": ""
+    }
+  ]
+}
